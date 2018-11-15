@@ -1,0 +1,19 @@
+{
+    "name": "d3kib",
+    "main": "index.js",
+    "version": "1.0.0",
+    "description": "Plugin to integrate d3 scripts",
+    "kibana": {
+        "version": "6.3.2"
+    },
+    "dependencies": {
+        "ansi-to-html": "0.6.4",
+        "c3": "0.6.8",
+        "d3": "5.7.0",
+        "handlebars": "4.0.6",
+        "lodash.escape": "4.0.1",
+        "lodash.get": "4.4.2",
+        "lodash.set": "4.3.2",
+        "react": "16.0.0"
+    }
+}
